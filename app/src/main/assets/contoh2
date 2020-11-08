@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Contoh HTML document</title>
+</head>
+<body>
+<h1>Hello Okedroid !</h1>
+<hr/>
+<p>Ini adalah <b>Contoh Paragraf ini </b> ,yang bisa kalian tampilkan pada Aplikasi Android.</p>
+</body>
+</html>
